@@ -7,7 +7,6 @@
   </a>
 </p>
 
-
 ## 🌸 **About me**
 
 <picture>
@@ -18,12 +17,9 @@
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity, this is <a href="https://docs.google.com/document/d/1liOUuThe6afblZhP2X3ZBnoHT_P9JrvxvtwJU70ru-U/edit?usp=sharing"  target="_blank"> [my resume]</a>
 
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -52,41 +48,32 @@
 </p>
 
 -----
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno4Z2gycDdnMmRvczE1eDluNW9od2h0emY0aDcwdXo2dzU4cXc0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ftS3gJ9CayE73vWlKb/giphy.gif" width ="25"> Pilar's GitHub Activity
 
-<br>
-
-[![Pilar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TU-USUARIO&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Pilar's github stats](https://github-readme-stats.vercel.app/api?username=PilarGonzalezFarret&show_icons=true&theme=tokyonight) | ![Pilar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PilarGonzalezFarret&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PilarGonzalezFarret&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PilarGonzalezFarret&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilarGonzalezFarret&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=PilarGonzalezFarret&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilarGonzalezFarret&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
------
+## <b> Let's Connect..! </b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDA0MjJlY3E5aXJrMzEzejA4bGljeHBueW8wZ3Q2aTVpcGwxejUzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTsAAaYV5nRjq/giphy.gif" width="250" align="right" alt="cute dog gif">
 
 <br>
+<div align="left">
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/pilar-gonz%C3%A1lez-farret-aranda-196839228/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin: PilarGonzálezFarretAranda-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+      </a>
+    </li>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/pilar-gonz%C3%A1lez-farret-aranda-196839228/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: PilarGonzálezFarretAranda-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-
-<li>
-<a href="mailto:pilar.gonzalezfarret@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  pilar.gonzalezfarret@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
+  <li>
+      <a href="mailto:pilar.gonzalezfarret@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail:  pilar.gonzalezfarret@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+      </a>
+    </li>
+  </ul>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
