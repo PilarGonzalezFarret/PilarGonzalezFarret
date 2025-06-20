@@ -57,7 +57,7 @@
 
 ## <b> Let's Connect..! </b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDA0MjJlY3E5aXJrMzEzejA4bGljeHBueW8wZ3Q2aTVpcGwxejUzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTsAAaYV5nRjq/giphy.gif" width="250" align="right" alt="cute dog gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDA0MjJlY3E5aXJrMzEzejA4bGljeHBueW8wZ3Q2aTVpcGwxejUzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTsAAaYV5nRjq/giphy.gif" width="200" align="right" alt="cute dog gif">
 
 <br>
 <div align="left">
