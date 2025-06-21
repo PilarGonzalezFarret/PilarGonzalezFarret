@@ -14,7 +14,7 @@
 </picture>
 
 - A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- Currently learning Web Development on my own
 - I’m currently open for an Intern or a new job opportunity, this is <a href="https://docs.google.com/document/d/1liOUuThe6afblZhP2X3ZBnoHT_P9JrvxvtwJU70ru-U/edit?usp=sharing"  target="_blank"> [my resume]</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
